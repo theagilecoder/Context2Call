@@ -1,4 +1,4 @@
-1. toc
+- toc
 {:toc}
 
 # Home Page
