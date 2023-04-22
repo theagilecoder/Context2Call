@@ -1,5 +1,6 @@
 1. toc
 {:toc}
+{::options toc_levels="1,2" /}
 
 ### Home Page
 Logon to https://contexttocall.com from your browser
