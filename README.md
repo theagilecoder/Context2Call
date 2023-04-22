@@ -1,3 +1,6 @@
+1. toc
+{:toc}
+
 ### Home Page
 Logon to https://contexttocall.com from your browser
 ![image](https://user-images.githubusercontent.com/5019222/231833081-43837e89-0f6b-45c1-b160-22aa5aae8c9b.png)
